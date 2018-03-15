@@ -6,13 +6,15 @@
 */.DS_Store
 .DS_Store
 */.idea/
-.idea
+.idea/
 gradlew
 gradlew.bat
 unused.txt
 .log
 .project
 .settings/
-
+*.bak
+*.iml
 /bin
 Thumbs.db
+.sonar/
