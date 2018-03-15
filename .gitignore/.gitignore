@@ -10,7 +10,7 @@
 gradlew
 gradlew.bat
 unused.txt
-
+.log
 .project
 .settings/
 
