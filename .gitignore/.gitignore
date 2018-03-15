@@ -2,6 +2,7 @@
 .classpath
 .class
 /target/
+/class/
 */.settings/
 */.DS_Store
 .DS_Store
@@ -18,3 +19,6 @@ unused.txt
 /bin
 Thumbs.db
 .sonar/
+.swn
+.swo
+.swp
