@@ -3,6 +3,7 @@
 .class
 /target/
 /classes/
+/userfiles/
 */.settings/
 */.DS_Store
 .DS_Store
